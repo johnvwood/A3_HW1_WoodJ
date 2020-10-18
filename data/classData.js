@@ -9,3 +9,16 @@ var classData = {
 
     coursecontent: ["Lecture Materials", "Tutorials & Labs", "Quizzes", "Discussion Groups"]
 };
+
+// coursename goes to class=textPrimary then a " - "
+
+// coursecode goes in there too after coursename 
+
+// profname goes into "text-prof" after a "Professor - "
+
+// classtime goes to <ul class="list-inline"> after span
+// <span class="glyphicon glyphicon-time"></span>(1ST TIME)
+// <span class="glyphicon glyphicon-time"></span>(2ND TIME)
+// </ul>
+
+//profimg goes to <img src="images/(HERE)" alt="prof image" class="img-circle profileImg">
